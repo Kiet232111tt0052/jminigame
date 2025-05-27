@@ -1,7 +1,7 @@
 {
   "name": "jmini-game",
   "version": "0.1.0",
-  "homepage": " http://jgame.io/",
+  "homepage": " http://jminigame.io.vn/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
