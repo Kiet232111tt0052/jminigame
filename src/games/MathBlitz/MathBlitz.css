@@ -44,7 +44,7 @@
   text-align: center;
   margin-bottom: 1.5rem; /* mb-6 */
   background: linear-gradient(to right, #2563eb, #7c3aed); /* from-blue-600 to-purple-600 */
-  /* -webkit-background-clip: text; */
+   -webkit-background-clip: text; 
   -webkit-text-fill-color: transparent;
   animation: pulse 2s infinite;
 }
